@@ -35,7 +35,7 @@ We will be using the current long-term release of QGIS (3.40 Bratislava)
 
 **Note 2**: It is recommended that you also bring a tablet. There is an accompanying step-by-step tutorial. Having a tablet will allow you to read the tutorial on your tablet while working on your laptop.
 
-### Instructors
+### Instructor
 This workshop was developed by Kurt Menke for the FOSS4G Europe Conference 2025, in Mostar, Bosnia on 17 July 2025.
 
 **Kurt Menke** - In early 2021, Kurt moved from the USA to Denmark and now works for [Septima P/S](https://septima.dk/) in Copenhagen, Denmark. He earned a Master in Geography from the 
