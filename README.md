@@ -28,8 +28,8 @@ Software:
 We will be using the current long-term release of QGIS (3.40 Bratislava) 
 
 * If using Windows, you can download it from the official [QGIS website](https://qgis.org/download/) or by using the OSGeo4W installer.
-* For MacOS users, download and install here [pull request]([https://qgis.org/download/)].
-* For Debian based users, download and install here [pull request]([https://qgis.org/download/)].
+* For MacOS users, download and install [here](https://qgis.org/download/)].
+* For Debian based users, download and install  [here]([https://qgis.org/download/)].
 
 **Note 1**: If you will be using a corporate laptop where permissions can be problematic, consider getting these installations completed with IT before you travel to the conference.
 
