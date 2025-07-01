@@ -44,7 +44,7 @@ University of New Mexico in 2000. He has a broad skillset. He is a spatial analy
 [Field Data Collection with QGIS and Mergin Maps](https://locatepress.com/book/mergin-maps) all with [Locate Press](https://locatepress.com/). He was elected as an OsGeo Charter Member 
 in 2015. He is also a fellow of the [Rewilding Institute](https://rewilding.org/) and a board member of [Wild Arizona](https://www.wildarizona.org/).
 
-### Introduction - What is a Mergin Maps?
+### Introduction - What is Mergin Maps?
 Mergin Maps is a collaborative space allowing you to store and synchronise QGIS projects across multiple mobile and desktop clients. The Mergin Maps QGIS plugin is used to sync your project between your computer, your Mergin Maps Server account and then to your mobile device. The Mergin Maps mobile app is used to collect data with a smart phone or tablet. Collectively, these tools create a very robust and affordable data collection set up. This course focuses on how to set up a QGIS project, work with Mergin Maps to collect field data and sync it back to your computer.
 
 ### Tutorial Document
