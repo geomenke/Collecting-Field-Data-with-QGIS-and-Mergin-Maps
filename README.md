@@ -29,7 +29,7 @@ By the end of this workshop, you'll be able to:
 
 
 #### Software
-Software:
+
 We will be using the current long-term release of QGIS (3.40 Bratislava) 
 
 You can download it from the official QGIS website and if using Windows you can use the OSGeo4W installer.
