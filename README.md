@@ -21,7 +21,12 @@ Do you need more customized projects? Learn advanced options for form configurat
 * Project Management and Collaboration - 
 Learn to manage a project for any size organization. Discover how to add users, set permissions and manage project versions.
 
-By the end of this workshop, you will be able to use Mergin Maps and QGIS effectively to collect and edit field data.
+By the end of this workshop, you'll be able to:
+* Design field data collection projects in QGIS.
+* Set up synchronization with Mergin Maps.
+* Collect and update spatial data in the field using a mobile device.
+* Sync and manage field data centrally using the Mergin platform.
+
 
 #### Software
 Software:
