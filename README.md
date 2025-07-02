@@ -51,10 +51,13 @@ in 2015. He is also a fellow of the [Rewilding Institute](https://rewilding.org/
 Mergin Maps is a collaborative space allowing you to store and synchronise QGIS projects across multiple mobile and desktop clients. The Mergin Maps QGIS plugin is used to sync your project between your computer, your Mergin Maps Server account and then to your mobile device. The Mergin Maps mobile app is used to collect data with a smart phone or tablet. Collectively, these tools create a very robust and affordable data collection set up. This course focuses on how to set up a QGIS project, work with Mergin Maps to collect field data and sync it back to your computer.
 
 ### Tutorial Document
-The tutorial can be accessed via this [link](https://docs.google.com/document/d/1hWMghUmzSkYkUm4cvnHn2DKLEzGdnxf6dnSMIHNWNfM/edit?usp=sharing)
+The tutorial can be accessed via this [link](https://docs.google.com/document/d/1RjwuJSW8-HtXX-ZHf_2nDybXmJLPVRAzKpWSECQLuXU/edit?usp=sharing)
 
 ### Presentation
 The presentation can be found here as Google slides: [link](https://docs.google.com/presentation/d/15ndpZ1ho-M34LPC6t6shSXWj_uHCbEOlJT1KzKUvFhk/edit?usp=sharing).
+
+### Workshop Data
+A small workshop data package can be downloaded here:
 
 ### Outline
 
