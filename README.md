@@ -54,7 +54,7 @@ Mergin Maps is a collaborative space allowing you to store and synchronise QGIS 
 The tutorial can be accessed via this [link](https://docs.google.com/document/d/1RjwuJSW8-HtXX-ZHf_2nDybXmJLPVRAzKpWSECQLuXU/edit?usp=sharing)
 
 ### Presentation
-The presentation can be found here as Google slides: [link](https://docs.google.com/presentation/d/15ndpZ1ho-M34LPC6t6shSXWj_uHCbEOlJT1KzKUvFhk/edit?usp=sharing).
+The presentation can be found here as Google slides: [link](https://docs.google.com/document/d/1RjwuJSW8-HtXX-ZHf_2nDybXmJLPVRAzKpWSECQLuXU/edit?usp=sharing).
 
 ### Workshop Data
 A small workshop data package can be downloaded here:
