@@ -57,7 +57,7 @@ The tutorial can be accessed via this [link](https://docs.google.com/document/d/
 The presentation can be found here as Google slides: [link](https://docs.google.com/document/d/1RjwuJSW8-HtXX-ZHf_2nDybXmJLPVRAzKpWSECQLuXU/edit?usp=sharing).
 
 ### Workshop Data
-A small workshop data package can be downloaded here:
+A small workshop data package can be downloaded [here](https://drive.google.com/file/d/1OhGIcFrNuYlDAnCuTWvnYCZtVUbEUQ3g/view?usp=sharing).
 
 ### Outline
 
